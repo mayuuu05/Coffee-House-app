@@ -1,13 +1,13 @@
 # coffee_house
 
-A new Flutter project.
-
+A new Flutter project
 
 <p align="center">
   <img src = "https://github.com/mayuuu05/Coffee-House-app/assets/149376263/0c5db9f0-c251-476b-bb11-bad5c06b04c8 " width=22% height=35% >
+  <img src = "https://github.com/mayuuu05/Coffee-House-app/assets/149376263/34373e42-bf83-4c82-bde2-afab8280d739 " width=22% height=35% >
    <img src = "https://github.com/mayuuu05/Coffee-House-app/assets/149376263/6404d3a9-c074-4f72-9581-19ae14daad61 " width=22% height=35% >
    <img src = "https://github.com/mayuuu05/Coffee-House-app/assets/149376263/3ffb3fa3-2cf5-41c6-be90-524eca8c1af1 " width=22% height=35% >
-   <img src = "https://github.com/mayuuu05/Coffee-House-app/assets/149376263/34373e42-bf83-4c82-bde2-afab8280d739 " width=22% height=35% >
+  
     <br>
   <br>
   </br>
