@@ -8,7 +8,7 @@ A new Flutter project
    <img src = "https://github.com/mayuuu05/Coffee-House-app/assets/149376263/6404d3a9-c074-4f72-9581-19ae14daad61 " width=22% height=35% >
    <img src = "https://github.com/mayuuu05/Coffee-House-app/assets/149376263/3ffb3fa3-2cf5-41c6-be90-524eca8c1af1 " width=22% height=35% >
   
-    <br>
+    
   <br>
   </br>
 </br>
