@@ -22,7 +22,7 @@ https://github.com/mayuuu05/Coffee-House-app/assets/149376263/8ac2e54e-b70f-4423
    <img src = "https://github.com/mayuuu05/Coffee-House-app/assets/149376263/41e3266d-0aee-466e-8727-847ea73e6408       " width=22% height=35% >
    <img src = "https://github.com/mayuuu05/Coffee-House-app/assets/149376263/03feabbb-e63b-4fc6-ae39-c9b3feeacddc       " width=22% height=35% >
     
-    <br>
+
   <br>
   </br>
 </br>
